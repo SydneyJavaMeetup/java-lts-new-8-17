@@ -2,13 +2,13 @@
 https://www.meetup.com/sydney-java/events/288493646/
 
 ### Program
-6pm - Networking/Drinks/Food
-6:30pm - Event Intro and Job Shouts
-6:35pm - What's new in Java LTS
-Let's take a quick look at some of the awesome new features since Java 8, and hopefully inspire you to upgrade to 17 if you haven't already!
-7:00pm - 15 minute break
-7.15pm - Let's build components, not layers
-Layers are often not the best way to organize code. Usually, a better approach to structure the code is to build components. Like lego bricks, we can compose multiple (vertical and horizontal) components to bigger and bigger components, like when building a car. We can zoom in and out of the codebase along the seams of the components to understand what we need to understand at the level of abstraction that we are currently concerned with.
+6pm - Networking/Drinks/Food  
+6:30pm - Event Intro and Job Shouts  
+6:35pm - What's new in Java LTS  
+Let's take a quick look at some of the awesome new features since Java 8, and hopefully inspire you to upgrade to 17 if you haven't already!  
+7:00pm - 15 minute break  
+7.15pm - Let's build components, not layers  
+Layers are often not the best way to organize code. Usually, a better approach to structure the code is to build components. Like lego bricks, we can compose multiple (vertical and horizontal) components to bigger and bigger components, like when building a car. We can zoom in and out of the codebase along the seams of the components to understand what we need to understand at the level of abstraction that we are currently concerned with.  
 
 In this talk, we’ll explore a lightweight way of structuring the codebase of a Spring Boot application that will feel like building lego. This component-based structure is easy to understand and reason about. It’s also easy to maintain over time thanks to a single rule that can be enforced by tooling. Java, Spring Boot, and ArchUnit bring all the tools we need for a nice component-based codebase, we just need to use them.
 
